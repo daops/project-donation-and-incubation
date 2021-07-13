@@ -1,63 +1,52 @@
 # project-donation-and-incubation
 
-## ？？
-
-接收数字化转型相关标准
-
-
+This document specifies the rules and process for the project in DAOPS Foundation. The project is standard related with digital transformation.
 
 ## Role
 
-1. Owner
-2. Committer
-3. Contributor
-4. User
 ### Technical Committee
 
-Committer组成的，决定项目最终发展
+Each project should set a techinical committee to manage the project under the instruction of GB and GTC, such as draw up the plan, decide the acceptance of pull request etc.
+
+### Committer
+
+The expert from Technical Committee will be the committer.
+
+### Contributor
+
+1. Every memebr could be the member contributor to contribute the standard content.
+2. Every one could be the indivial contributor to contribute the standard content.
 
 ## Standard Format
 
-1. Standard Content
-   1. 要点是哪些，比如得是依据完整的话？
-2. Use Case（脱敏）from Contributor's practice in his/her company.
-   1. 通过Use Case 支撑Standard Content的内容
-   2. 如果没有Use Case也可以是前沿的研究成果（比如参考论文等）
-3. Else
-   1. Reference
-   2. Terms definition
-      1. Terms from daops/glossary
-      2. Terms from other standard
-      3. Terms in this standard
-   3. Acronyms and abbreviation
+1. Definition
+   1. Definition should clarify the scope of the standard.
+2. Reference
+3. Terms definition
+4. Acronyms and abbreviation
+5. Architecture
+6. Standard Content
+   1. The describtion of the standard should be specific,measurable and attainable.
+7. Use Case 
+   1. Use case is from contributor's practice in his/her organization.
+   2. Standards should not be made out of nothing. Each standard should be derived from actual use cases but higher than use cases. This is in line with the values of **P**racticality in the DAOPS Foundation. Use cases can be work experience, papers, etc. of the organization.
 
 ## Process
 
-A project is a standard
+### 1-Initiative
 
-### Initiative
+1. The project could be from donation from members.
+2. The project could be from proposal from members.
+3. The project could be from proposal from GTC.
 
-#### From Membership Donation
+### 2-Incubation (Development)
 
-#### From Membership Proposal
+### 3-Pilot Assessment
 
-#### From GTC Proposal
+### 4-Graduation
 
+1. GTC will vote to determine whether the project will graduate.
+2. The repository of the project on github will be set as public. 
 
+### 5-Evolution
 
-### Incubating (Development)
-
-Who can contribute
-
-Who can merge
-
-Use case
-
-
-
-议事规则？？？
-
-### Graduated
-
-1. GTC投票
-2. 
